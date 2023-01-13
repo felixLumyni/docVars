@@ -1,5 +1,6 @@
 # docVars
 A simple program to replace all occurrences of words with something else in a word document
+[Download with DownGit](https://downgit.github.io/#/home?url=https://github.com/felixLumyni/docVars/blob/main/docVars.py)
 
 # How to use this
 - Open the .py file with [Python](https://www.python.org/)
